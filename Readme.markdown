@@ -16,6 +16,10 @@ MX スイッチ、 Choc スイッチに対応しています。
 
 - https://twitter.com/zk_phi/status/1271797216508669954
 
+パリピモード (ビートに合わせて演出)
+
+- https://twitter.com/zk_phi/status/1272497990968565760
+
 ## パーツ
 
 - メイン基板
