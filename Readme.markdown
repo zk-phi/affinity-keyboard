@@ -42,7 +42,7 @@ MX スイッチ、 Choc スイッチに対応しています。
   - チップ抵抗 22K (2012 Metrics) x2
   - TRRS ジャック MJ-4PP-9 x2
 - キースイッチ
-  - MX 互換 or Choc x16
+  - 5-pin MX 互換 or Choc x16
     - 初期の Choc クリッキーにあった追加のピンは刺さりません
 - ネジ類
   - M2 スペーサ 5mm x5
@@ -142,7 +142,9 @@ LED がたくさん光っていると、音声に謎のノイズが乗ります�
   - ２段目以降も同様
 
 - ファームを焼いた Pro Micro をコンスルーで差し込み動作テストをします
-  - `zk-phi/qmk_firmware` にあります: `make handrwired/affinity:default:avrdude`
+  - LED のテストには Helix の `led_test` キーマップが便利です (`make helix/rev2:led_test:avrdude`)
+    - (音を検知しないと光らないので)
+  - このキーボードのキーマップは `zk-phi/qmk_firmware` にあります: `make handwired/affinity:default:avrdude`
 
 - おもて面に実装する部品を背の低いものから実装します
   - チップ抵抗、チップコンデンサ、スペアナ IC、リセットスイッチ、コンデンサ、 TRRS ジャック
