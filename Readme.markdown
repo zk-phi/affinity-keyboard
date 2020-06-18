@@ -51,6 +51,26 @@ MX スイッチ、 Choc スイッチに対応しています。
   - M2 ネジ 3~4mm x14
   - ゴム足 4 個
 
+### 入手先の例
+
+- スペアナ IC
+
+http://akizukidenshi.com/catalog/g/gI-12887/
+
+- チップコンデンサ
+
+http://akizukidenshi.com/catalog/g/gP-14572/
+
+- コンデンサ
+
+http://akizukidenshi.com/catalog/g/gP-13317/
+
+- チップ抵抗
+
+https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57CU (220K)
+
+https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-57CG (22K)
+
 ## TODO
 
 今のバージョンにはいくつか改善の余地があります。
